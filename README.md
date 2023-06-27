@@ -6,11 +6,9 @@
 
 ### 👾 Summary
 
-👋 Hi, I'm Rolando, a software developer passionate about exploring diverse programming languages and technologies. Experienced in JavaScript, PHP, Python, C#, Flutter, HTML, CSS, Bootstrap, Java, Node.js, MySQL, Postgre, Git, and Github, I also focus on software architecture and agile methodologies 👀.
+👋 Hi, I'm Rolando, a software developer passionate about exploring diverse programming languages and technologies.
 
 🌱 Currently learning mobile software development and expanding skills in web development. I enjoy creating interactive user experiences.
-
-Visit my GitHub profile to see my projects and coding journey. Feel free to reach out for questions or collaboration opportunities.
 
 Happy coding! 🚀
 
