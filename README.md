@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?size=14&color=fff&lines=The+harder+I+work,+the+luckier+I+get.%7C" align="left">
   </div>
 </div>
-  <br><br><br>
+  <br><br>
   
 ### 👾 Summary
 
@@ -20,31 +20,6 @@ Happy coding! 🚀
 
 [![Linkedin: Rolando Rodriguez](https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/rolando-rodriguez-8b3156269/)
 
-
-### A little more about me...  
-
----
-
-```javascript
-const rolando = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "HTML", "CSS", "Python", "C#", "Flutter", "PHP"],
-    askMeAbout: ["gym", "movies", "TV series", "music"],
-    languages: ["spanish (Native)", "english (B1)"],
-    technologies: {
-        backend: {
-            CSharp: [".NET core"],
-            JavaScript: ["Nodejs"]
-        },
-        frontend: {
-            CSS: ["Boostrap"],
-        },
-        databases: ["MySQL", "Postgre"],
-        tools: ["VsCode", "Postman", "Git"]
-    },
-    challenge: 
-};
-```
 ---
 
 <div align="left">
