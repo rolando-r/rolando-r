@@ -1,15 +1,19 @@
-<div align="left">
-  <img src="https://media3.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" align="right" border-radius="5px" height="90">
-  <h1>Rolando Rodriguez Garcia</h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?size=14&color=fff&lines=The+harder+I+work,+the+luckier+I+get.%7C">
+<div align="center">
+  <img src="https://media2.giphy.com/media/2lOClHnQg8Njy/giphy.gif?cid=ecf05e47acnv0jn0tp5lcbt9sn86a2phdhtrzx1vhllnhkhc&ep=v1_gifs_related&rid=giphy.gif&ct=s" align="right" border-radius="10px" width="60" height="70">
+  <h1>Hi, I'm Rolando Rodriguez Garcia</h1>
+  <img src="https://i.imgur.com/wPszXfl.png">
+  <div>
+    <img src="https://readme-typing-svg.herokuapp.com/?size=14&color=fff&lines=The+harder+I+work,+the+luckier+I+get.%7C" align="left">
+  </div>
 </div>
-
+  <br><br><br>
+  
 ### 👾 Summary
 
-👋 Hi, I'm Rolando, a software developer passionate about exploring diverse programming languages and technologies.
-
+💻 Passionate software development student exploring the fascinating realm of web development. Committed to collaboratively creating innovative solutions. Let's work together!
+  
 🌱 Currently learning mobile software development and expanding skills in web development. I enjoy creating interactive user experiences.
-
+  
 Happy coding! 🚀
 
 📫 How to reach me **roolandoor@gmail.com**
@@ -17,7 +21,7 @@ Happy coding! 🚀
 [![Linkedin: Rolando Rodriguez](https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/rolando-rodriguez-8b3156269/)
 
 
-### <img src="https://media2.giphy.com/media/EUNEHOZhspZRu/giphy.gif?cid=ecf05e47g3p5ld7lmt7fkx0nmud2ord8hd1fkmu42hib6ma6&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="45"> A little more about me...  
+### A little more about me...  
 
 ---
 
