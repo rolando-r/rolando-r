@@ -18,7 +18,7 @@ Happy coding! 🚀
 
 📫 How to reach me **roolandoor@gmail.com**
 
-[![Linkedin: Rolando Rodriguez](https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/rolando-rodriguezg/)
+[![Linkedin: Rolando Rodriguez](https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/rolando-rodriguez-garcia/)
 
 ---
 
