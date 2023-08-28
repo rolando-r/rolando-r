@@ -6,14 +6,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?size=14&color=fff&lines=The+harder+I+work,+the+luckier+I+get.%7C" align="left">
   </div>
 </div>
-  <br><br>
-  
+<br><br>
+
 ### 👾 Summary
 
 💻 Passionate software development student exploring the fascinating realm of web development. Committed to collaboratively creating innovative solutions. Let's work together!
-  
+
 🌱 Currently learning mobile software development and expanding skills in web development. I enjoy creating interactive user experiences.
-  
+
+🎓 Studying Engineering in Systems.
+
 Happy coding! 🚀
 
 📫 How to reach me **roolandoor@gmail.com**
@@ -38,6 +40,7 @@ Happy coding! 🚀
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> 
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a>
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/></a> 
+    </div>
 </div>
 
 ---
