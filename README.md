@@ -32,5 +32,7 @@ Happy coding! 🚀
 ---
 
 ### 📊 My Stats
-![rolando-r's Stats](https://github-readme-stats.vercel.app/api?username=rolando-r&theme=transparent&show_icons=true&hide_border=true&count_private=true)
-![rolando-r's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rolando-r&theme=transparent&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rolando-r&theme=transparent&show_icons=true&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rolando-r&theme=transparent&hide_border=true" width="49%" />
+</p>
