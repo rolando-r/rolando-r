@@ -15,7 +15,7 @@ Happy coding! 🚀
 
 ### 🧰 My Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,php,go,python,js,ts,html,css,dotnet,laravel,react,tailwind,vite,mysql,mongodb,redis,git,github,gitlab,postman,docker,aws,linux,visualstudio,vscode&perline=15" alt="tech stack icons"/>
+  <img src="https://skillicons.dev/icons?i=cs,php,go,python,js,ts,html,css,dotnet,laravel,react,tailwind,jest,vite,mysql,mongodb,redis,git,github,gitlab,postman,docker,aws,linux,visualstudio,vscode&perline=13" alt="tech stack icons"/>
 </p>
 
 ---
